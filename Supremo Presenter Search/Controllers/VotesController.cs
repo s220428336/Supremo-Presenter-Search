@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Supremo_Presenter_Search.Data;
+using Supremo_Presenter_Search.Areas.Identity.Data;
 using Supremo_Presenter_Search.Models;
 
 namespace Supremo_Presenter_Search.Controllers
